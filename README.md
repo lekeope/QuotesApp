@@ -4,7 +4,7 @@ An android App that implements MVVM architecture following the [Guide to app arc
 
 ## Screenshots
 
-<img src="screenshots.png" alt="Screenshot">
+<img src="graphics/img.png" alt="Screenshot">
 
 ## Features
 
