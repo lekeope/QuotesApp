@@ -1,11 +1,11 @@
-package dev.edgestudio.quotesapp.view
+package dev.edgestudio.quotesapp.ui.quotes
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import dev.edgestudio.quotesapp.databinding.ActivityQuotesBinding
-import dev.edgestudio.quotesapp.model.Quote
+import dev.edgestudio.quotesapp.pojo.Quote
 import dev.edgestudio.quotesapp.utilities.InjectorUtils
 import dev.edgestudio.quotesapp.viewmodel.QuotesViewModel
 

@@ -2,9 +2,9 @@ package dev.edgestudio.quotesapp.data
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import dev.edgestudio.quotesapp.model.Quote
+import dev.edgestudio.quotesapp.pojo.Quote
 
-class QuoteDAO {
+class QuoteDao {
     private val quoteList = mutableListOf<Quote>()
     private val quotes = MutableLiveData<List<Quote>>()
     init {

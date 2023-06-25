@@ -6,7 +6,7 @@ import dev.edgestudio.quotesapp.viewmodel.QuotesViewModelFactory
 
 object InjectorUtils {
     fun provideQuotesViewModelFactory(): QuotesViewModelFactory {
-        val quoteRepository = QuoteRepository.getInstance(Database.getInstance().quoteDAO)
+        val quoteRepository = QuoteRepository.getInstance(Database.getInstance().quoteDao)
         return QuotesViewModelFactory(quoteRepository)
     }
 }

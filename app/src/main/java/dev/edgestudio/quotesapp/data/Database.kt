@@ -2,7 +2,7 @@ package dev.edgestudio.quotesapp.data
 
 class Database private constructor(){
 
-    val quoteDAO = QuoteDAO()
+    val quoteDao = QuoteDao()
 
     companion object{
         @Volatile private var instance: Database? = null
