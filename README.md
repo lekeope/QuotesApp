@@ -10,8 +10,8 @@ An android App that implements MVVM architecture following the [Guide to app arc
 
 ### 🖼️ UI
       
-The app contains a simple Compose UI that shows a list of <br>
-saved strings and lets the user save new ones.<br>
+The app contains a simple (Compose) UI that shows a list of <br>
+quotes by authors and lets the user save new ones.<br>
 
 ### 🏠 Architecture
 
