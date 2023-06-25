@@ -9,20 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71450bcb-7322-4309-b054-31685f816a81" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/data/Database.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/data/Database.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/data/QuoteDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/data/QuoteDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/model/Quote.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/pojo/Quote.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/repository/QuoteRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/repository/QuoteRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/utilities/InjectorUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/utilities/InjectorUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/view/QuotesActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/ui/quotes/QuotesActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/viewmodel/QuotesViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/dev/edgestudio/quotesapp/viewmodel/QuotesViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_quotes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_quotes.xml" afterDir="false" />
-    </list>
+    <list default="true" id="71450bcb-7322-4309-b054-31685f816a81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
